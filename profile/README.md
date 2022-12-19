@@ -1,5 +1,5 @@
 <center>
-<img src="https://raw.githubusercontent.com/Avernus-Official/.github/main/profile/logo.png" height="400" />
+<img src="https://raw.githubusercontent.com/Avernus-Official/.github/main/profile/logo.png" height="300" />
 </center>
 
 # Avernus - Building block by block
