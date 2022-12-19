@@ -1,12 +1,18 @@
-## Hi there 👋
+<center>
+<img src="https://github.com/Avernus-Official/.github/tree/main/profile/logo.png" height="400" />
+</center>
 
-<!--
+# Avernus - Building block by block
 
-**Here are some ideas to get you started:**
+Site: https://comingsoon.com/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Members:
+
+- Ali Asghar Kerai - [www.github.com/AliasgharKerai](www.github.com/AliasgharKerai)
+- Areeb Adnan Khan - [www.github.com/Areebkhan02](www.github.com/Areebkhan02)
+- Hamad Abdul Razzaq - [www.github.com/HamadAbdulRazzaq](www.github.com/HamadAbdulRazzaq)
+- Hammas Abid - [www.github.com/Gojo-Sataro](www.github.com/Gojo-Sataro)
+- Syed Jahania Shah - [www.github.com/S-Jahania-Shah](www.github.com/S-Jahania-Shah)
+- Khuzaima Ali Khan - [www.github.com/](www.github.com/)
+- Lakshman Maheshwari - [www.github.com/LakshmanMaheshwari](www.github.com/LakshmanMaheshwari)
+- Muhammad Jazzel Mehmood - [www.github.com/Jazzel](www.github.com/Jazzel)
